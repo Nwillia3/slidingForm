@@ -1,0 +1,11 @@
+@import url()
+
+*{
+    box-sizing: border-box
+}
+
+
+body{
+    font-family: sans-serif
+    background: #f6f5f7;
+}
