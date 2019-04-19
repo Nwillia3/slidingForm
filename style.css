@@ -21,6 +21,9 @@ h1 {
   font-weight: Bold;
   margin: 0;
 }
+.Welcome {
+  font-size: 31px;
+}
 
 p {
   font-size: 14px;
